@@ -19,3 +19,4 @@ This program is following the concepts of ```go routines``` using which we are a
 servers urls parallely. This is also using ```channels``` to communicate bamong different ```go routines```.
  
 ## Screenshots
+<img src="Screenshot%202019-09-22%20at%205.54.06%20PM.png" width="1000">
